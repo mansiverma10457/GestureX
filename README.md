@@ -1,6 +1,6 @@
-# GestureX ✋
+# GestureX ✋ - The Era of Contactless Interaction
 
-AI-Based Gesture Recognition System
+AI-Based Gesture Recognition System.
 
 GestureX is a computer vision project that allows users to interact with a computer using **hand gestures instead of traditional input devices like a mouse or keyboard**.
 
