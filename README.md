@@ -1,4 +1,4 @@
-# GestureX ✋ - The Era of Contactless Interaction
+# GestureX ✋ - The Era of Contactless Interaction.
 
 AI-Based Gesture Recognition System.
 
